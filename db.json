@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "avatar": "/images/1-avatar.png",
+      "name": "Rafael",
+      "lastName": "Couto",
+      "bio": "Oi, sou Rafael Couto. eu amo tralhar com frontend."
+    },
+    {
+      "id": 2,
+      "avatar": "/images/2-avatar.png",
+      "name": "Mikasa",
+      "lastName": "Ackerman",
+      "bio": "Hola, sou Mikasa Ackerman. Gosto muito de viver ao lado dos meus amigos, principalmente do Eren Yeager."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "owner": 1,
+      "text": "Hoje fiz uma aplicação web. Essa aplicação permite que todos à avaliarem os pedreiros em da sua região."
+    },
+    {
+      "id": 2,
+      "owner": 2,
+      "text": "Mais um dia normal, matei 100 titãs no easy e o Eren não correspondeu o meu amor."
+    }
+  ],
+  "homePage": {
+    "title": "Rede Social Fake",
+    "message": "Esse rede social é somente para mostrar minhas habilidades com Next.js"
+  }
+}
