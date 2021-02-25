@@ -1,7 +1,7 @@
 {
   "name": "sn-fake-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dp.json",
   "license": "MIT",
   "scripts": {
     "start": "json-server --watch db.json",
